@@ -1,0 +1,12 @@
+*{
+	margin:50px;
+	padding:0;
+	}
+
+	section{
+		text-align: center;
+	}
+
+	#video{
+		border: grey 4px solid;
+	}
